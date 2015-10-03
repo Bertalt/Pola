@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pola</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="screen_array">
+        <item>Home</item>
+        <item>Labo 2</item>
+
+    </string-array>
+    <string name="b_lab2">Обчислити</string>
+    <string name="hello_blank_fragment_n1">Лінійний обчислювальний процес</string>
+
+</resources>
